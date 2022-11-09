@@ -8,4 +8,8 @@ public class TestGitcommit {
 	public void test() {
 		System.out.println("this is from local repo");
 	}
+	
+	public void test2() {
+		System.out.println("this is from remote repo");
+	}
 }
